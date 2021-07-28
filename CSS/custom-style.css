@@ -1,0 +1,19 @@
+.custom-font-h1 {
+  font-size: 75px;
+}
+.custom-color-span1 {
+  color: #fa804c;
+}
+.custom-flex1 {
+  display: flex !important ;
+  justify-content: flex-end !important;
+}
+.custom-bg1 {
+  background-color: #fff9f4;
+}
+.custom-button-color {
+  background-color: #3644c1;
+}
+.custom-img-bg {
+  background-color: #f1f1f1;
+}
